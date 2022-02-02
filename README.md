@@ -2,9 +2,9 @@
 
 Hi! My name is **Abdelilah Chamati**.
 
-# Prerequisite
+# Technologie
 
-1.  Website created using MERN technology **MongoDB**, **Express**, **React**, **Node**.
+1.  Website created using MERN technology **MongoDB**, **Express.JS**, **React.JS**, **Node.JS**.
 
 
 # Install Dependencies
