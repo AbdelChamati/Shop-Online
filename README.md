@@ -2,7 +2,7 @@
 
 Hi! My name is **Abdelilah Chamati**.
 
-# Technologie
+# Technology
 
 1.  Website created using MERN technology **MongoDB**, **Express.JS**, **React.JS**, **Node.JS**.
 
